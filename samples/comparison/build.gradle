@@ -10,8 +10,8 @@ dependencies {
 
     compile 'com.facebook.fresco:fresco:0.5.0+'
     compile 'com.facebook.fresco:drawee:0.5.0+'
-    compile 'com.facebook.fresco:drawee-backends:drawee-pipeline:0.5.0+'
-    compile 'com.facebook.fresco:drawee-backends:drawee-volley:0.5.0+'
+    compile 'com.facebook.fresco:drawee-pipeline:0.5.0+'
+    compile 'com.facebook.fresco:drawee-volley:0.5.0+'
     compile 'com.facebook.fresco:fbcore:0.5.0+'
     compile 'com.facebook.fresco:imagepipeline:0.5.0+'
     compile 'com.facebook.fresco:imagepipeline-backends:imagepipeline-okhttp:0.5.0'
